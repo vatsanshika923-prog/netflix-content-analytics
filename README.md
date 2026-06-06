@@ -7,6 +7,16 @@ This project analyzes Netflix's content catalog to uncover trends in content dis
 The objective is to understand how Netflix has expanded its content library over time and identify key patterns that can support content strategy decisions.
 
 ---
+## Project Highlights
+
+* Performed end-to-end data cleaning and preprocessing.
+* Conducted exploratory data analysis (EDA) on 8,000+ Netflix titles.
+* Created multiple visualizations to uncover content trends and patterns.
+* Generated business insights and recommendations based on data findings.
+* Organized the project using industry-standard Data Science project structure.
+
+---
+
 
 ## Business Understanding
 
@@ -113,6 +123,31 @@ The following analyses were performed:
 5. Drama and International Movies are among the most represented genres.
 
 ---
+## Sample Visualizations
+
+### Movies vs TV Shows Distribution
+
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+### Netflix Content Growth Over Time
+
+![Content Growth](images/content_growth.png)
+
+### Top Content Producing Countries
+
+![Top Countries](images/top_countries.png)
+
+### Content Ratings Distribution
+
+![Ratings Distribution](images/ratings_distribution.png)
+
+### Top Genres on Netflix
+
+![Top Genres](images/top_genres.png)
+
+
+---
+
 
 ## Recommendations
 
@@ -129,6 +164,20 @@ The following analyses were performed:
 * Advanced genre trend analysis
 * Recommendation system
 * Predictive content analytics
+
+---
+## Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Engineering
+* Business Insight Generation
+* Python Programming
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
 
 ---
 
